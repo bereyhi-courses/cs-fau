@@ -6,7 +6,7 @@ This library includes the lecture-notes of the course _Compressive Sensing,_ giv
 ## Lecture Notes 
 * [Chapter 1: Introduction to Compressive Sensing](https://github.com/bereyhi-courses/cs-fau/blob/main/LectureNotes_CS/Chapter_1.pdf)
 * [Chapter 2: First Try to Sparse Recovery](https://github.com/bereyhi-courses/cs-fau/blob/main/LectureNotes_CS/Chapter_2.pdf)
-* [Chapter 3: Magic by $\ell_1$-norm Minimization](https://github.com/bereyhi-courses/cs-fau/blob/main/LectureNotes_CS/Chapter_3.pdf)
+* [Chapter 3: Magic by](https://github.com/bereyhi-courses/cs-fau/blob/main/LectureNotes_CS/Chapter_3.pdf) $\ell_1$-norm Minimization
 * [Chapter 4: Greedy and Thresholding Algorithms for Sparse Recovery](https://github.com/bereyhi-courses/cs-fau/blob/main/LectureNotes_CS/Chapter_4.pdf)
 * [Chapter 5: Sparse Recovery from Noisy Samples](https://github.com/bereyhi-courses/cs-fau/blob/main/LectureNotes_CS/Chapter_5.pdf)
 * [Chapter 6: Good Sensing Matrices and Compressed Sensing](https://github.com/bereyhi-courses/cs-fau/blob/main/LectureNotes_CS/Chapter_6.pdf)
